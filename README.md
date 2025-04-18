@@ -73,4 +73,5 @@ Embeddings and GPT2 tokenIDs will be written in `feature/cache_E`
 ```
 bash ./train_MI.sh
 ```
- 
+
+This bash script uses the nohup command, so the python program will run in the background and redirect std output to a log file.
