@@ -71,4 +71,3 @@ Embeddings and GPT2 tokenIDs will be written in `feature/cache_E`
 ```
 bash ./train_MI.sh
 ```
- 
