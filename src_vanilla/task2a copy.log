@@ -1,0 +1,648 @@
+Starting the task of `intention detection`...
+
+==========
+The timestamp of this experiment: 1737776322430027
+==========
+
+Epoch [1/200]
+Train Loss:   2.7,  Val Loss:   2.2,  Val Acc: 31.64%,
+*Val Macro Avg F1-Score:  0.1194,  Time: 0:00:06
+Best Val Macro Avg F1-Score Update!
+
+Mode of test;  Loss:   2.1,  Acc: 33.38%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+     Class 0     0.0000    0.0000    0.0000        40
+     Class 1     0.3320    0.9222    0.4882       270
+     Class 2     0.3600    0.0596    0.1023       302
+     Class 3     0.0000    0.0000    0.0000       186
+     Class 4     0.0000    0.0000    0.0000         2
+
+    accuracy                         0.3337       800
+   macro avg     0.1384    0.1964    0.1181       800
+weighted avg     0.2480    0.3337    0.2034       800
+
+Confusion Matrix...
+[[  0  39   1   0   0]
+ [  0 249  21   0   0]
+ [  0 284  18   0   0]
+ [  0 177   9   0   0]
+ [  0   1   1   0   0]]
+Time usage: 0:00:01
+==========
+
+Epoch [2/200]
+Train Loss:   1.6,  Val Loss:   1.7,  Val Acc: 36.46%,
+*Val Macro Avg F1-Score:  0.1724,  Time: 0:00:11
+Best Val Macro Avg F1-Score Update!
+
+Mode of test;  Loss:   1.6,  Acc: 38.00%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+     Class 0     0.0000    0.0000    0.0000        40
+     Class 1     0.3684    0.6222    0.4628       270
+     Class 2     0.3953    0.4503    0.4211       302
+     Class 3     0.0000    0.0000    0.0000       186
+     Class 4     0.0000    0.0000    0.0000         2
+
+    accuracy                         0.3800       800
+   macro avg     0.1528    0.2145    0.1768       800
+weighted avg     0.2736    0.3800    0.3151       800
+
+Confusion Matrix...
+[[  0  22  18   0   0]
+ [  0 168 102   0   0]
+ [  0 166 136   0   0]
+ [  0  99  87   0   0]
+ [  0   1   1   0   0]]
+Time usage: 0:00:01
+==========
+
+Epoch [3/200]
+Train Loss:   1.4,  Val Loss:   1.5,  Val Acc: 32.03%,
+*Val Macro Avg F1-Score:  0.1162,  Time: 0:00:16
+==========
+
+Epoch [4/200]
+Train Loss:   1.3,  Val Loss:   1.4,  Val Acc: 36.46%,
+*Val Macro Avg F1-Score:  0.1719,  Time: 0:00:20
+==========
+
+Epoch [5/200]
+Train Loss:   1.3,  Val Loss:   1.4,  Val Acc: 36.20%,
+*Val Macro Avg F1-Score:  0.1667,  Time: 0:00:24
+==========
+
+Epoch [6/200]
+Train Loss:   1.3,  Val Loss:   1.4,  Val Acc: 34.90%,
+*Val Macro Avg F1-Score:  0.1528,  Time: 0:00:28
+==========
+
+Epoch [7/200]
+Train Loss:   1.3,  Val Loss:   1.3,  Val Acc: 38.54%,
+*Val Macro Avg F1-Score:  0.1821,  Time: 0:00:31
+Best Val Macro Avg F1-Score Update!
+
+Mode of test;  Loss:   1.3,  Acc: 38.38%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+     Class 0     0.0000    0.0000    0.0000        40
+     Class 1     0.4091    0.6667    0.5070       270
+     Class 2     0.3538    0.4205    0.3843       302
+     Class 3     0.0000    0.0000    0.0000       186
+     Class 4     0.0000    0.0000    0.0000         2
+
+    accuracy                         0.3837       800
+   macro avg     0.1526    0.2174    0.1783       800
+weighted avg     0.2716    0.3837    0.3162       800
+
+Confusion Matrix...
+[[  0  19  21   0   0]
+ [  0 180  89   1   0]
+ [  0 175 127   0   0]
+ [  0  65 121   0   0]
+ [  0   1   1   0   0]]
+Time usage: 0:00:01
+==========
+
+Epoch [8/200]
+Train Loss:   1.2,  Val Loss:   1.3,  Val Acc: 38.15%,
+*Val Macro Avg F1-Score:  0.1787,  Time: 0:00:36
+==========
+
+Epoch [9/200]
+Train Loss:   1.2,  Val Loss:   1.2,  Val Acc: 45.83%,
+*Val Macro Avg F1-Score:  0.2744,  Time: 0:00:40
+Best Val Macro Avg F1-Score Update!
+
+Mode of test;  Loss:   1.2,  Acc: 44.88%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+     Class 0     0.0000    0.0000    0.0000        40
+     Class 1     0.4588    0.5778    0.5115       270
+     Class 2     0.4138    0.5166    0.4595       302
+     Class 3     0.5663    0.2527    0.3494       186
+     Class 4     0.0000    0.0000    0.0000         2
+
+    accuracy                         0.4487       800
+   macro avg     0.2878    0.2694    0.2641       800
+weighted avg     0.4427    0.4487    0.4273       800
+
+Confusion Matrix...
+[[  0  14  20   6   0]
+ [  0 156 100  14   0]
+ [  0 130 156  16   0]
+ [  0  39 100  47   0]
+ [  0   1   1   0   0]]
+Time usage: 0:00:01
+==========
+
+Epoch [10/200]
+Train Loss:   1.2,  Val Loss:   1.3,  Val Acc: 39.71%,
+*Val Macro Avg F1-Score:  0.1907,  Time: 0:00:46
+==========
+
+Epoch [11/200]
+Train Loss:   1.2,  Val Loss:   1.2,  Val Acc: 46.48%,
+*Val Macro Avg F1-Score:  0.2819,  Time: 0:00:49
+Best Val Macro Avg F1-Score Update!
+
+Mode of test;  Loss:   1.2,  Acc: 46.00%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+     Class 0     0.0000    0.0000    0.0000        40
+     Class 1     0.5019    0.4963    0.4991       270
+     Class 2     0.4136    0.5861    0.4849       302
+     Class 3     0.5429    0.3065    0.3918       186
+     Class 4     0.0000    0.0000    0.0000         2
+
+    accuracy                         0.4600       800
+   macro avg     0.2917    0.2778    0.2752       800
+weighted avg     0.4517    0.4600    0.4426       800
+
+Confusion Matrix...
+[[  0   6  28   6   0]
+ [  0 134 115  21   0]
+ [  0 105 177  20   0]
+ [  0  21 108  57   0]
+ [  0   1   0   1   0]]
+Time usage: 0:00:01
+==========
+
+Epoch [12/200]
+Train Loss:   1.2,  Val Loss:   1.3,  Val Acc: 47.92%,
+*Val Macro Avg F1-Score:  0.2851,  Time: 0:00:54
+Best Val Macro Avg F1-Score Update!
+
+Mode of test;  Loss:   1.2,  Acc: 47.00%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+     Class 0     0.0000    0.0000    0.0000        40
+     Class 1     0.5221    0.4815    0.5010       270
+     Class 2     0.4255    0.6523    0.5150       302
+     Class 3     0.5568    0.2634    0.3577       186
+     Class 4     0.0000    0.0000    0.0000         2
+
+    accuracy                         0.4700       800
+   macro avg     0.3009    0.2794    0.2747       800
+weighted avg     0.4663    0.4700    0.4467       800
+
+Confusion Matrix...
+[[  0   6  29   5   0]
+ [  0 130 121  19   0]
+ [  0  90 197  15   0]
+ [  0  22 115  49   0]
+ [  0   1   1   0   0]]
+Time usage: 0:00:01
+==========
+
+Epoch [13/200]
+Train Loss:   1.1,  Val Loss:   1.3,  Val Acc: 46.48%,
+*Val Macro Avg F1-Score:   0.281,  Time: 0:00:59
+==========
+
+Epoch [14/200]
+Train Loss:   1.1,  Val Loss:   1.3,  Val Acc: 46.74%,
+*Val Macro Avg F1-Score:  0.2827,  Time: 0:01:03
+==========
+
+Epoch [15/200]
+Train Loss:   1.1,  Val Loss:   1.4,  Val Acc: 46.88%,
+*Val Macro Avg F1-Score:  0.2796,  Time: 0:01:07
+==========
+
+Epoch [16/200]
+Train Loss:   1.1,  Val Loss:   1.3,  Val Acc: 45.83%,
+*Val Macro Avg F1-Score:  0.2783,  Time: 0:01:10
+==========
+
+Epoch [17/200]
+Train Loss:   1.0,  Val Loss:   1.3,  Val Acc: 48.05%,
+*Val Macro Avg F1-Score:  0.2922,  Time: 0:01:15
+Best Val Macro Avg F1-Score Update!
+
+Mode of test;  Loss:   1.3,  Acc: 48.75%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+     Class 0     0.0000    0.0000    0.0000        40
+     Class 1     0.4953    0.5815    0.5349       270
+     Class 2     0.4632    0.5629    0.5082       302
+     Class 3     0.5431    0.3387    0.4172       186
+     Class 4     0.0000    0.0000    0.0000         2
+
+    accuracy                         0.4875       800
+   macro avg     0.3003    0.2966    0.2921       800
+weighted avg     0.4683    0.4875    0.4694       800
+
+Confusion Matrix...
+[[  0  12  21   7   0]
+ [  0 157  90  23   0]
+ [  0 109 170  23   0]
+ [  0  38  85  63   0]
+ [  0   1   1   0   0]]
+Time usage: 0:00:01
+==========
+
+Epoch [18/200]
+Train Loss:   1.0,  Val Loss:   1.3,  Val Acc: 48.31%,
+*Val Macro Avg F1-Score:  0.2939,  Time: 0:01:20
+Best Val Macro Avg F1-Score Update!
+
+Mode of test;  Loss:   1.3,  Acc: 48.00%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+     Class 0     0.0000    0.0000    0.0000        40
+     Class 1     0.4913    0.5259    0.5081       270
+     Class 2     0.4578    0.5927    0.5166       302
+     Class 3     0.5250    0.3387    0.4118       186
+     Class 4     0.0000    0.0000    0.0000         2
+
+    accuracy                         0.4800       800
+   macro avg     0.2948    0.2915    0.2873       800
+weighted avg     0.4607    0.4800    0.4622       800
+
+Confusion Matrix...
+[[  0  11  22   7   0]
+ [  0 142 103  25   0]
+ [  0  98 179  25   0]
+ [  0  37  86  63   0]
+ [  0   1   1   0   0]]
+Time usage: 0:00:01
+==========
+
+Epoch [19/200]
+Train Loss:  0.95,  Val Loss:   1.3,  Val Acc: 45.31%,
+*Val Macro Avg F1-Score:  0.2689,  Time: 0:01:25
+==========
+
+Epoch [20/200]
+Train Loss:  0.91,  Val Loss:   1.3,  Val Acc: 45.70%,
+*Val Macro Avg F1-Score:  0.2744,  Time: 0:01:29
+==========
+
+Epoch [21/200]
+Train Loss:  0.86,  Val Loss:   1.4,  Val Acc: 45.83%,
+*Val Macro Avg F1-Score:   0.277,  Time: 0:01:32
+==========
+
+Epoch [22/200]
+Train Loss:  0.82,  Val Loss:   1.4,  Val Acc: 45.96%,
+*Val Macro Avg F1-Score:  0.2764,  Time: 0:01:36
+==========
+
+Epoch [23/200]
+Train Loss:  0.76,  Val Loss:   1.4,  Val Acc: 47.66%,
+*Val Macro Avg F1-Score:  0.3071,  Time: 0:01:41
+Best Val Macro Avg F1-Score Update!
+
+Mode of test;  Loss:   1.4,  Acc: 51.12%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+     Class 0     1.0000    0.0250    0.0488        40
+     Class 1     0.5000    0.5630    0.5296       270
+     Class 2     0.4870    0.6192    0.5452       302
+     Class 3     0.6216    0.3710    0.4646       186
+     Class 4     0.0000    0.0000    0.0000         2
+
+    accuracy                         0.5112       800
+   macro avg     0.5217    0.3156    0.3176       800
+weighted avg     0.5471    0.5112    0.4950       800
+
+Confusion Matrix...
+[[  1  12  22   5   0]
+ [  0 152 102  16   0]
+ [  0  95 187  20   0]
+ [  0  44  73  69   0]
+ [  0   1   0   1   0]]
+Time usage: 0:00:01
+==========
+
+Epoch [24/200]
+Train Loss:  0.72,  Val Loss:   1.4,  Val Acc: 48.70%,
+*Val Macro Avg F1-Score:  0.3139,  Time: 0:01:46
+Best Val Macro Avg F1-Score Update!
+
+Mode of test;  Loss:   1.4,  Acc: 51.50%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+     Class 0     0.6667    0.0500    0.0930        40
+     Class 1     0.5070    0.5370    0.5216       270
+     Class 2     0.4885    0.6325    0.5512       302
+     Class 3     0.6167    0.3978    0.4837       186
+     Class 4     0.0000    0.0000    0.0000         2
+
+    accuracy                         0.5150       800
+   macro avg     0.4558    0.3235    0.3299       800
+weighted avg     0.5322    0.5150    0.5012       800
+
+Confusion Matrix...
+[[  2  12  20   6   0]
+ [  0 145 107  18   0]
+ [  1  89 191  21   0]
+ [  0  39  73  74   0]
+ [  0   1   0   1   0]]
+Time usage: 0:00:01
+==========
+
+Epoch [25/200]
+Train Loss:  0.66,  Val Loss:   1.5,  Val Acc: 45.96%,
+*Val Macro Avg F1-Score:  0.3091,  Time: 0:01:51
+==========
+
+Epoch [26/200]
+Train Loss:   0.6,  Val Loss:   1.6,  Val Acc: 47.53%,
+*Val Macro Avg F1-Score:  0.3203,  Time: 0:01:55
+Best Val Macro Avg F1-Score Update!
+
+Mode of test;  Loss:   1.5,  Acc: 51.75%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+     Class 0     0.6667    0.1500    0.2449        40
+     Class 1     0.4984    0.5852    0.5383       270
+     Class 2     0.4903    0.5861    0.5339       302
+     Class 3     0.6460    0.3925    0.4883       186
+     Class 4     0.0000    0.0000    0.0000         2
+
+    accuracy                         0.5175       800
+   macro avg     0.4603    0.3428    0.3611       800
+weighted avg     0.5368    0.5175    0.5090       800
+
+Confusion Matrix...
+[[  6  14  15   5   0]
+ [  1 158  96  15   0]
+ [  2 104 177  19   0]
+ [  0  40  73  73   0]
+ [  0   1   0   1   0]]
+Time usage: 0:00:01
+==========
+
+Epoch [27/200]
+Train Loss:  0.58,  Val Loss:   1.6,  Val Acc: 47.53%,
+*Val Macro Avg F1-Score:  0.3245,  Time: 0:02:00
+Best Val Macro Avg F1-Score Update!
+
+Mode of test;  Loss:   1.6,  Acc: 51.88%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+     Class 0     0.6667    0.1500    0.2449        40
+     Class 1     0.5122    0.5444    0.5278       270
+     Class 2     0.4859    0.6258    0.5470       302
+     Class 3     0.6348    0.3925    0.4850       186
+     Class 4     0.0000    0.0000    0.0000         2
+
+    accuracy                         0.5188       800
+   macro avg     0.4599    0.3425    0.3610       800
+weighted avg     0.5372    0.5188    0.5097       800
+
+Confusion Matrix...
+[[  6  11  18   5   0]
+ [  1 147 105  17   0]
+ [  2  92 189  19   0]
+ [  0  37  76  73   0]
+ [  0   0   1   1   0]]
+Time usage: 0:00:01
+==========
+
+Epoch [28/200]
+Train Loss:  0.54,  Val Loss:   1.7,  Val Acc: 47.14%,
+*Val Macro Avg F1-Score:  0.3153,  Time: 0:02:05
+==========
+
+Epoch [29/200]
+Train Loss:   0.5,  Val Loss:   1.7,  Val Acc: 47.92%,
+*Val Macro Avg F1-Score:  0.3352,  Time: 0:02:09
+Best Val Macro Avg F1-Score Update!
+
+Mode of test;  Loss:   1.6,  Acc: 51.62%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+     Class 0     0.6000    0.1500    0.2400        40
+     Class 1     0.5222    0.5222    0.5222       270
+     Class 2     0.4883    0.6192    0.5460       302
+     Class 3     0.5766    0.4247    0.4892       186
+     Class 4     0.0000    0.0000    0.0000         2
+
+    accuracy                         0.5162       800
+   macro avg     0.4374    0.3432    0.3595       800
+weighted avg     0.5246    0.5162    0.5081       800
+
+Confusion Matrix...
+[[  6  10  18   6   0]
+ [  2 141 103  24   0]
+ [  2  86 187  27   0]
+ [  0  33  74  79   0]
+ [  0   0   1   1   0]]
+Time usage: 0:00:01
+==========
+
+Epoch [30/200]
+Train Loss:  0.48,  Val Loss:   1.7,  Val Acc: 47.27%,
+*Val Macro Avg F1-Score:  0.3308,  Time: 0:02:13
+==========
+
+Epoch [31/200]
+Train Loss:  0.44,  Val Loss:   1.7,  Val Acc: 48.70%,
+*Val Macro Avg F1-Score:  0.3395,  Time: 0:02:17
+Best Val Macro Avg F1-Score Update!
+
+Mode of test;  Loss:   1.7,  Acc: 51.38%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+     Class 0     0.5000    0.1500    0.2308        40
+     Class 1     0.5198    0.4852    0.5019       270
+     Class 2     0.4935    0.6258    0.5518       302
+     Class 3     0.5556    0.4570    0.5015       186
+     Class 4     0.0000    0.0000    0.0000         2
+
+    accuracy                         0.5138       800
+   macro avg     0.4138    0.3436    0.3572       800
+weighted avg     0.5159    0.5138    0.5058       800
+
+Confusion Matrix...
+[[  6   8  19   7   0]
+ [  4 131 105  30   0]
+ [  2  81 189  30   0]
+ [  0  32  69  85   0]
+ [  0   0   1   1   0]]
+Time usage: 0:00:01
+==========
+
+Epoch [32/200]
+Train Loss:  0.42,  Val Loss:   1.7,  Val Acc: 47.92%,
+*Val Macro Avg F1-Score:  0.3337,  Time: 0:02:21
+==========
+
+Epoch [33/200]
+Train Loss:   0.4,  Val Loss:   1.7,  Val Acc: 48.44%,
+*Val Macro Avg F1-Score:   0.349,  Time: 0:02:24
+Best Val Macro Avg F1-Score Update!
+
+Mode of test;  Loss:   1.8,  Acc: 52.00%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+     Class 0     0.4286    0.1500    0.2222        40
+     Class 1     0.5294    0.4667    0.4961       270
+     Class 2     0.5151    0.6225    0.5637       302
+     Class 3     0.5246    0.5161    0.5203       186
+     Class 4     0.0000    0.0000    0.0000         2
+
+    accuracy                         0.5200       800
+   macro avg     0.3995    0.3511    0.3605       800
+weighted avg     0.5165    0.5200    0.5123       800
+
+Confusion Matrix...
+[[  6  10  16   8   0]
+ [  5 126 100  39   0]
+ [  3  72 188  39   0]
+ [  0  30  60  96   0]
+ [  0   0   1   1   0]]
+Time usage: 0:00:01
+==========
+
+Epoch [34/200]
+Train Loss:  0.39,  Val Loss:   1.8,  Val Acc: 48.83%,
+*Val Macro Avg F1-Score:  0.3582,  Time: 0:02:27
+Best Val Macro Avg F1-Score Update!
+
+Mode of test;  Loss:   1.8,  Acc: 51.25%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+     Class 0     0.2857    0.1500    0.1967        40
+     Class 1     0.5441    0.4111    0.4684       270
+     Class 2     0.5153    0.6126    0.5598       302
+     Class 3     0.5000    0.5806    0.5373       186
+     Class 4     0.0000    0.0000    0.0000         2
+
+    accuracy                         0.5125       800
+   macro avg     0.3690    0.3509    0.3524       800
+weighted avg     0.5087    0.5125    0.5041       800
+
+Confusion Matrix...
+[[  6   8  16  10   0]
+ [  8 111 102  49   0]
+ [  7  62 185  48   0]
+ [  0  23  55 108   0]
+ [  0   0   1   1   0]]
+Time usage: 0:00:01
+==========
+
+Epoch [35/200]
+Train Loss:  0.38,  Val Loss:   1.8,  Val Acc: 48.44%,
+*Val Macro Avg F1-Score:  0.3509,  Time: 0:02:31
+==========
+
+Epoch [36/200]
+Train Loss:   0.4,  Val Loss:   1.8,  Val Acc: 48.31%,
+*Val Macro Avg F1-Score:  0.3412,  Time: 0:02:34
+==========
+
+Epoch [37/200]
+Train Loss:   0.4,  Val Loss:   1.9,  Val Acc: 47.01%,
+*Val Macro Avg F1-Score:  0.3275,  Time: 0:02:37
+==========
+
+Epoch [38/200]
+Train Loss:  0.37,  Val Loss:   2.0,  Val Acc: 45.83%,
+*Val Macro Avg F1-Score:  0.3195,  Time: 0:02:40
+==========
+
+Epoch [39/200]
+Train Loss:  0.33,  Val Loss:   2.0,  Val Acc: 47.14%,
+*Val Macro Avg F1-Score:  0.3332,  Time: 0:02:43
+==========
+
+Epoch [40/200]
+Train Loss:   0.3,  Val Loss:   2.0,  Val Acc: 46.35%,
+*Val Macro Avg F1-Score:  0.3256,  Time: 0:02:45
+==========
+
+Epoch [41/200]
+Train Loss:  0.29,  Val Loss:   2.0,  Val Acc: 46.09%,
+*Val Macro Avg F1-Score:  0.3278,  Time: 0:02:48
+==========
+
+Epoch [42/200]
+Train Loss:  0.29,  Val Loss:   2.0,  Val Acc: 46.61%,
+*Val Macro Avg F1-Score:  0.3327,  Time: 0:02:51
+==========
+
+Epoch [43/200]
+Train Loss:  0.26,  Val Loss:   2.0,  Val Acc: 46.61%,
+*Val Macro Avg F1-Score:  0.3309,  Time: 0:02:53
+==========
+
+Epoch [44/200]
+Train Loss:  0.27,  Val Loss:   2.0,  Val Acc: 46.88%,
+*Val Macro Avg F1-Score:  0.3323,  Time: 0:02:55
+==========
+
+Epoch [45/200]
+Train Loss:  0.26,  Val Loss:   2.0,  Val Acc: 46.61%,
+*Val Macro Avg F1-Score:  0.3299,  Time: 0:02:56
+==========
+
+Epoch [46/200]
+Train Loss:  0.27,  Val Loss:   2.1,  Val Acc: 46.48%,
+*Val Macro Avg F1-Score:  0.3303,  Time: 0:02:58
+==========
+
+Epoch [47/200]
+Train Loss:  0.25,  Val Loss:   2.1,  Val Acc: 46.48%,
+*Val Macro Avg F1-Score:  0.3307,  Time: 0:02:59
+==========
+
+Epoch [48/200]
+Train Loss:  0.25,  Val Loss:   2.1,  Val Acc: 46.74%,
+*Val Macro Avg F1-Score:  0.3307,  Time: 0:03:01
+==========
+
+Epoch [49/200]
+Train Loss:  0.25,  Val Loss:   2.1,  Val Acc: 46.48%,
+*Val Macro Avg F1-Score:  0.3307,  Time: 0:03:02
+==========
+
+Epoch [50/200]
+Train Loss:  0.25,  Val Loss:   2.1,  Val Acc: 46.09%,
+*Val Macro Avg F1-Score:  0.3285,  Time: 0:03:04
+==========
+
+Epoch [51/200]
+Train Loss:  0.26,  Val Loss:   2.1,  Val Acc: 45.96%,
+*Val Macro Avg F1-Score:  0.3275,  Time: 0:03:05
+==========
+
+Epoch [52/200]
+Train Loss:  0.25,  Val Loss:   2.1,  Val Acc: 46.35%,
+*Val Macro Avg F1-Score:  0.3299,  Time: 0:03:06
+==========
+
+Epoch [53/200]
+Train Loss:  0.24,  Val Loss:   2.1,  Val Acc: 46.22%,
+*Val Macro Avg F1-Score:  0.3295,  Time: 0:03:08
+==========
+
+Epoch [54/200]
+Train Loss:  0.24,  Val Loss:   2.1,  Val Acc: 46.09%,
+*Val Macro Avg F1-Score:  0.3284,  Time: 0:03:09
+==========
+
+
+No optimization for a long time, auto-stopping...
+So, model in epoch 34 should be chosen for test
+The timestamp of this experiment: 1737776322430027

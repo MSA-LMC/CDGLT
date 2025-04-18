@@ -1,0 +1,10 @@
+# We use Python 3.8.0
+torch==2.4.1
+torchvision==0.19.1
+transformers==4.45.1
+pandas==2.0.3
+numpy==1.24.4
+scikit-learn==1.3.2
+accelerate>=0.26.0
+Pillow
+tqdm

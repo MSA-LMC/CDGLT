@@ -1,0 +1,801 @@
+images_name,sentiment category,sentiment degree,intention detection,offensiveness detection,metaphor occurrence,metaphor category,target domain,source domain,target modality,source modality,Language
+E_image_ (1154).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (491).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,text dominant,hope,chocolate,text,text,EN
+E_image_ (1126).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (925).jpg,2(love),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3588).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (161).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),1,complementary,internet,pit,text,image,EN
+E_image_ (2355).jpg,3(anger),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (289).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),1,complementary,you,Spongebob squarepants,text,image,EN
+E_image_ (275).jpg,1(happiness),2(moderately),2(expressive),0(non-offensive),1,image dominant,human,orange,image,image,EN
+E_image_ (1402).jpg,3(anger),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (409).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,complementary,my friend,cat,text,image,EN
+E_image_ (836).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,complementary,Hawkeye's shield,man,text,image,EN
+E_image_ (1745).jpg,3(anger),2(moderately),2(expressive),1(slightly),0,,,,,,EN
+E_image_ (2097).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (858).jpg,2(love),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (482).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,image dominant,Donald Trump;Vladimir Vladimirovich Putin;Melania Trump,man;woman;woman,image,image,EN
+E_image_ (1784).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1070).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,complementary,tree,cat,text,image,EN
+E_image_ (1193).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (388).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),1,complementary,cocaine,snow,text,image,EN
+E_image_ (2016).jpg,3(anger),1(slightly),5(other),0(non-offensive),0,,,,,,EN
+E_image_ (2273).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (590).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),1,complementary,you,fox,text,image,EN
+E_image_ (2302).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3139).jpg,2(love),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (283).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),1,image dominant,watermelon,cat,image,image,EN
+E_image_ (887).jpg,6(hate),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3847).jpg,4(sorrow),3(very),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2730).jpg,1(happiness),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1854).jpg,6(hate),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2898).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,complementary,sweden;ending sexism;people still use this meme,man;woman;woman,text,image,EN
+E_image_ (1825).jpg,3(anger),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (918).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3063).jpg,2(love),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2982).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (232).jpg,2(love),3(very),2(expressive),0(non-offensive),1,complementary,you,sunflower,text,image,EN
+E_image_ (1468).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2577).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3055).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (865).jpg,1(happiness),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2811).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1605).jpg,7(surprise),3(very),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3646).jpg,1(happiness),2(moderately),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (1304).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3742).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (596).jpg,6(hate),1(slightly),3(entertaining),0(non-offensive),1,complementary,peace,sunshine,text,image,EN
+E_image_ (2586).jpg,6(hate),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (26).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),1,complementary,bacon seeds,pig,text,image,EN
+E_image_ (197).jpg,6(hate),1(slightly),2(expressive),0(non-offensive),1,text dominant,door,love,text,text,EN
+E_image_ (3677).jpg,1(happiness),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1654).jpg,6(hate),2(moderately),1(interactive),1(slightly),0,,,,,,EN
+E_image_ (952).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (381).jpg,1(happiness),1(slightly),4(offensive),1(slightly),1,complementary,queen of france,cat,text,image,EN
+E_image_ (2421).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),1,complementary,cocaine,snow,text,image,EN
+E_image_ (1166).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1478).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2829).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2010).jpg,7(surprise),1(slightly),2(expressive),0(non-offensive),1,complementary,misogynists;femininity,man;butterfly,text,image,EN
+E_image_ (3823).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (936).jpg,6(hate),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3848).jpg,5(fear),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1528).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,complementary,you;avocado,woman;ball,text,image,EN
+E_image_ (3177).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3978).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2891).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2101).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (782).jpg,2(love),1(slightly),1(interactive),0(non-offensive),1,complementary,yacht,electric iron,text,image,EN
+E_image_ (1204).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2587).jpg,2(love),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (110).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),1,complementary,knowledge,book,text,image,EN
+E_image_ (1860).jpg,1(happiness),1(slightly),4(offensive),1(slightly),1,complementary,US Peace offering,food,text,image,EN
+E_image_ (3837).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3917).jpg,1(happiness),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (105).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),1,complementary,knowledge,book,text,image,EN
+E_image_ (1488).jpg,5(fear),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3747).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (551).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,image dominant,peach,Donald Trump,image,image,EN
+E_image_ (2043).jpg,2(love),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (92).jpg,2(love),3(very),2(expressive),0(non-offensive),1,complementary,knowledge,rainbow,text,image,EN
+E_image_ (2181).jpg,6(hate),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3457).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1137).jpg,2(love),3(very),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2086).jpg,2(love),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1406).jpg,1(happiness),3(very),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (414).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,complementary,pubg;life goals,pit;car and money and apartment,text,image,EN
+E_image_ (1397).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (539).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,complementary,your girl,cat,text,image,EN
+E_image_ (2414).jpg,3(anger),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (2928).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3246).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2023).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2958).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3920).jpg,4(sorrow),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1386).jpg,1(happiness),2(moderately),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2591).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1715).jpg,1(happiness),1(slightly),3(entertaining),1(slightly),0,,,,,,EN
+E_image_ (1919).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (656).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),1,text dominant,window,eyes,text,text,EN
+E_image_ (2151).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (127).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,complementary,rabbit,slippers,image,complementary,EN
+E_image_ (1062).jpg,6(hate),3(very),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3114).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2894).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (248).jpg,2(love),1(slightly),1(interactive),0(non-offensive),1,complementary,wish,flower,text,complementary,EN
+E_image_ (3461).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1013).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (128).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),1,complementary,me,rabbit,text,image,EN
+E_image_ (264).jpg,4(sorrow),3(very),2(expressive),0(non-offensive),1,complementary,i,pear,text,image,EN
+E_image_ (3621).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3839).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3900).jpg,1(happiness),3(very),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2551).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (749).jpg,5(fear),1(slightly),3(entertaining),0(non-offensive),1,complementary,me,cat,text,image,EN
+E_image_ (2220).jpg,5(fear),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1841).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (549).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,complementary,aliens,woman,text,image,EN
+E_image_ (1320).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1773).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1269).jpg,7(surprise),2(moderately),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (3930).jpg,3(anger),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2345).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3023).jpg,2(love),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (2155).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3465).jpg,2(love),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (536).jpg,5(fear),1(slightly),3(entertaining),0(non-offensive),1,complementary,me,cat,text,image,EN
+E_image_ (3183).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2343).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (867).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1317).jpg,4(sorrow),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1969).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3578).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (930).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2619).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3209).jpg,2(love),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (2225).jpg,3(anger),2(moderately),2(expressive),2(moderately),0,,,,,,EN
+E_image_ (3024).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3652).jpg,2(love),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3606).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1198).jpg,1(happiness),1(slightly),3(entertaining),1(slightly),0,,,,,,EN
+E_image_ (2346).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2950).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2028).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1713).jpg,3(anger),2(moderately),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1241).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1001).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1089).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3098).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1602).jpg,1(happiness),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2713).jpg,1(happiness),2(moderately),3(entertaining),0(non-offensive),1,complementary,me;nerf gun;dart,cat;tail;telescope,text,image,EN
+E_image_ (484).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),1,text dominant,temple,body,text,text,EN
+E_image_ (2477).jpg,3(anger),1(slightly),3(entertaining),2(moderately),0,,,,,,EN
+E_image_ (3072).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (341).jpg,4(sorrow),1(slightly),4(offensive),1(slightly),1,complementary,guys;balenciaga,tomatoes;tomatoes,text,image,EN
+E_image_ (2940).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),1,text dominant,power,knowledge,text,text,EN
+E_image_ (3657).jpg,7(surprise),2(moderately),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3797).jpg,1(happiness),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1643).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (497).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,complementary,champa rice,rainbow,text,image,EN
+E_image_ (3392).jpg,7(surprise),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2991).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (470).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),1,complementary,patience,gasoline,text,image,EN
+E_image_ (837).jpg,6(hate),1(slightly),3(entertaining),1(slightly),0,,,,,,EN
+E_image_ (2957).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2933).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (113).jpg,1(happiness),2(moderately),2(expressive),0(non-offensive),1,complementary,1:59AM;2AM;1AM,man;woman;woman,text,image,EN
+E_image_ (654).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,complementary,lung,orange,complementary,image,EN
+E_image_ (1809).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2716).jpg,5(fear),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (304).jpg,4(sorrow),2(moderately),2(expressive),0(non-offensive),1,complementary,life,line,text,image,EN
+E_image_ (1716).jpg,1(happiness),1(slightly),4(offensive),3(very),0,,,,,,EN
+E_image_ (1891).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1094).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (544).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,complementary,USB,US bee,image,text,EN
+E_image_ (1060).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3502).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2162).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3152).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (385).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),1,complementary,snail,me,complementary,text,EN
+E_image_ (3052).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3864).jpg,1(happiness),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (3051).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2090).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (572).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),1,complementary,rainwater,cats and dogs,complementary,complementary,EN
+E_image_ (1888).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3921).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,text dominant,deep ocean of secrets,woman's heart,text,text,EN
+E_image_ (518).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,image dominant,urine,rainbow,image,image,EN
+E_image_ (3992).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2832).jpg,7(surprise),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1256).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1655).jpg,4(sorrow),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2718).jpg,1(happiness),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (3793).jpg,1(happiness),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (894).jpg,2(love),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2261).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1929).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1777).jpg,2(love),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (720).jpg,5(fear),1(slightly),3(entertaining),0(non-offensive),1,complementary,me,cat,text,image,EN
+E_image_ (2756).jpg,1(happiness),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (367).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,image dominant,hamberger,turtle,image,image,EN
+E_image_ (182).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),1,complementary,cure,man,text,image,EN
+E_image_ (3003).jpg,3(anger),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (548).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,complementary,aliens,cloud,text,image,EN
+E_image_ (2174).jpg,4(sorrow),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (745).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,image dominant,democrat,donkey,image,image,EN
+E_image_ (3485).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2392).jpg,3(anger),1(slightly),4(offensive),0(non-offensive),1,text dominant,the taste of india;the waste of india,amual;pappu,text,text,EN
+E_image_ (119).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),1,complementary,money,time,text,image,EN
+E_image_ (3949).jpg,1(happiness),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (623).jpg,2(love),1(slightly),2(expressive),0(non-offensive),1,complementary,heart,earth,complementary,complementary,EN
+E_image_ (2330).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1683).jpg,3(anger),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (991).jpg,2(love),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (3264).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2977).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1871).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (373).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),1,complementary,turtle,cat,text,image,EN
+E_image_ (3501).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3360).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1197).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (879).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1470).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3144).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2720).jpg,1(happiness),2(moderately),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (1959).jpg,4(sorrow),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2535).jpg,3(anger),1(slightly),2(expressive),1(slightly),0,,,,,,EN
+E_image_ (3357).jpg,1(happiness),1(slightly),4(offensive),1(slightly),1,complementary,watch,apple,image,image,EN
+E_image_ (644).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),1,complementary,woundplast;wound,Queerness;White Guilt,image,text,EN
+E_image_ (2138).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2809).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1651).jpg,6(hate),2(moderately),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2165).jpg,3(anger),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3845).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2525).jpg,6(hate),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2622).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1007).jpg,2(love),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (188).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,complementary,parents,lions,text,image,EN
+E_image_ (1810).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2031).jpg,7(surprise),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (382).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,complementary,shampoo bottle,cat,text,image,EN
+E_image_ (1772).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1834).jpg,6(hate),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3758).jpg,1(happiness),2(moderately),4(offensive),2(moderately),0,,,,,,EN
+E_image_ (3331).jpg,4(sorrow),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (972).jpg,6(hate),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (640).jpg,2(love),1(slightly),2(expressive),0(non-offensive),1,complementary,life struggles and responsibilites;milk;me,storm;tree;Spider-Man,text,image,EN
+E_image_ (1350).jpg,1(happiness),3(very),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3714).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (239).jpg,2(love),3(very),2(expressive),0(non-offensive),1,text dominant,soul,flower,text,text,EN
+E_image_ (3160).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (206).jpg,1(happiness),2(moderately),3(entertaining),0(non-offensive),1,complementary,computer mouse,unversal charger,text,image,EN
+E_image_ (2053).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1110).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2116).jpg,1(happiness),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (504).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,complementary,loyalty,rainbow,text,image,EN
+E_image_ (2615).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (440).jpg,6(hate),1(slightly),3(entertaining),1(slightly),1,text dominant,trash,your memes,text,text,EN
+E_image_ (3445).jpg,2(love),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2201).jpg,2(love),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (778).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,text dominant,wisdom,tea,text,complementary,EN
+E_image_ (803).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,image dominant,bird,woman,image,image,EN
+E_image_ (1275).jpg,2(love),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (314).jpg,1(happiness),2(moderately),2(expressive),0(non-offensive),1,text dominant,spice,humor,text,text,EN
+E_image_ (1622).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2815).jpg,1(happiness),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (2110).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3412).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3824).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (799).jpg,7(surprise),1(slightly),2(expressive),0(non-offensive),1,complementary,o,mouth,complementary,image,EN
+E_image_ (763).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,text dominant,key,confidence,text,text,EN
+E_image_ (3481).jpg,3(anger),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1085).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3960).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2472).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3060).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3036).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (57).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,complementary,frog,bear,text,image,EN
+E_image_ (1616).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (663).jpg,2(love),1(slightly),2(expressive),0(non-offensive),1,text dominant,co-worker,coffee,text,text,EN
+E_image_ (2340).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,image dominant,lion,Putin,image,image,EN
+E_image_ (2929).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3002).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1819).jpg,5(fear),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (144).jpg,1(happiness),2(moderately),2(expressive),0(non-offensive),1,complementary,me,monkey,text,image,EN
+E_image_ (3321).jpg,3(anger),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (2319).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,complementary,turkey,map,text,image,EN
+E_image_ (164).jpg,2(love),1(slightly),2(expressive),0(non-offensive),1,text dominant,gift,honesty,text,text,EN
+E_image_ (2287).jpg,6(hate),1(slightly),4(offensive),0(non-offensive),1,image dominant,sun,Putin,image,image,EN
+E_image_ (3184).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1037).jpg,1(happiness),2(moderately),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (2073).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3359).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1401).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1064).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,complementary,hat,cat,text,complementary,EN
+E_image_ (3683).jpg,5(fear),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1663).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (910).jpg,2(love),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (24).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,complementary,bread;dog,dog;bread,complementary,complementary,EN
+E_image_ (2602).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2252).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (145).jpg,4(sorrow),2(moderately),2(expressive),0(non-offensive),1,complementary,me,monkey,text,image,EN
+E_image_ (1943).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (297).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),1,complementary,teachers,kid,text,image,EN
+E_image_ (1163).jpg,4(sorrow),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (121).jpg,2(love),2(moderately),2(expressive),0(non-offensive),1,text dominant,money,time,complementary,complementary,EN
+E_image_ (2182).jpg,7(surprise),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (2613).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (291).jpg,5(fear),3(very),2(expressive),0(non-offensive),1,complementary,teachers;reminders,man;crowd,text,image,EN
+E_image_ (2656).jpg,6(hate),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1536).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1150).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3625).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),1,complementary,Ukrainians;Russians;hating Poles,arm;arm;handshake,text,image,EN
+E_image_ (3185).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (391).jpg,3(anger),3(very),2(expressive),0(non-offensive),1,complementary,human,BBQ,complementary,complementary,EN
+E_image_ (3869).jpg,5(fear),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (975).jpg,3(anger),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2269).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1428).jpg,4(sorrow),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (3715).jpg,3(anger),3(very),4(offensive),2(moderately),0,,,,,,EN
+E_image_ (1351).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),1,complementary,you,koala,text,image,EN
+E_image_ (702).jpg,2(love),1(slightly),2(expressive),0(non-offensive),1,complementary,me,dog,text,image,EN
+E_image_ (3836).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3075).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (138).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,complementary,unicorn,horse,text,image,EN
+E_image_ (987).jpg,2(love),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (2152).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1100).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,text dominant,poor,paw,text,text,EN
+E_image_ (2997).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1575).jpg,2(love),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3126).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1791).jpg,6(hate),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1409).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1598).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1167).jpg,6(hate),1(slightly),2(expressive),1(slightly),0,,,,,,EN
+E_image_ (3391).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (808).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),1,image dominant,frog,man,image,image,EN
+E_image_ (2630).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (68).jpg,6(hate),1(slightly),2(expressive),0(non-offensive),1,complementary,threat,water,text,image,EN
+E_image_ (1056).jpg,5(fear),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (329).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),1,complementary,period;me,sea wave;woman,text,image,EN
+E_image_ (2785).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2869).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2075).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,text dominant,inspiration;poor,Bill Gates;ppl,text,text,EN
+E_image_ (1175).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2938).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2739).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2881).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (736).jpg,6(hate),1(slightly),3(entertaining),0(non-offensive),1,complementary,me;battery,Patrick Star;food,text,image,EN
+E_image_ (2363).jpg,3(anger),1(slightly),4(offensive),1(slightly),1,complementary,get a clean SLATE,white skin,text,image,EN
+E_image_ (2903).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3492).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),1,complementary,you,cat,text,image,EN
+E_image_ (360).jpg,2(love),1(slightly),2(expressive),0(non-offensive),1,complementary,apple fans;iphone 1;iphone 11,man;woman;woman,text,image,EN
+E_image_ (1328).jpg,3(anger),2(moderately),4(offensive),2(moderately),0,,,,,,EN
+E_image_ (2212).jpg,6(hate),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (219).jpg,4(sorrow),1(slightly),4(offensive),2(moderately),1,complementary,book;movie,hamburger;hamburger,text,image,EN
+E_image_ (2109).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3820).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1279).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (473).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,complementary,door,heart,image,text,EN
+E_image_ (335).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),1,image dominant,bread,cat,image,image,EN
+E_image_ (3027).jpg,2(love),1(slightly),2(expressive),0(non-offensive),1,complementary,panda,ass,complementary,image,EN
+E_image_ (3948).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,text dominant,two way street,loyalty,text,text,EN
+E_image_ (2840).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1363).jpg,7(surprise),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (149).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),1,complementary,wolf,sheep,text,image,EN
+E_image_ (3383).jpg,7(surprise),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1281).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1892).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2784).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1908).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3999).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1143).jpg,2(love),3(very),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2459).jpg,3(anger),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3307).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (931).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,text dominant,everything,perspective,text,text,EN
+E_image_ (2327).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2944).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1437).jpg,1(happiness),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (251).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,image dominant,frog,cat,image,image,EN
+E_image_ (2623).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (846).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (584).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,text dominant,lighthouses,books,text,text,EN
+E_image_ (2149).jpg,1(happiness),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2187).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3362).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (268).jpg,2(love),1(slightly),2(expressive),0(non-offensive),1,text dominant,treasure,apple,text,text,EN
+E_image_ (109).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,complementary,stop;liaison man,knowledge;cat,text,complementary,EN
+E_image_ (838).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (389).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,complementary,pants,snow,complementary,image,EN
+E_image_ (1584).jpg,3(anger),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (629).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,image dominant,kidney,smoke,image,image,EN
+E_image_ (1031).jpg,1(happiness),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (1690).jpg,5(fear),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3493).jpg,3(anger),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3435).jpg,1(happiness),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3490).jpg,3(anger),2(moderately),4(offensive),3(very),0,,,,,,EN
+E_image_ (2837).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3722).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (684).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,complementary,camel,koala,text,image,EN
+E_image_ (2404).jpg,5(fear),1(slightly),3(entertaining),0(non-offensive),1,complementary,i,seal,text,image,EN
+E_image_ (1914).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3556).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1695).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2544).jpg,3(anger),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1631).jpg,2(love),2(moderately),1(interactive),1(slightly),0,,,,,,EN
+E_image_ (1617).jpg,1(happiness),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (312).jpg,4(sorrow),2(moderately),2(expressive),0(non-offensive),1,text dominant,life,gym,text,text,EN
+E_image_ (255).jpg,1(happiness),1(slightly),4(offensive),1(slightly),1,image dominant,Donald Trump,frog,image,image,EN
+E_image_ (2839).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3166).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1417).jpg,1(happiness),2(moderately),4(offensive),2(moderately),0,,,,,,EN
+E_image_ (1589).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),1,text dominant,lie,life,text,text,EN
+E_image_ (2515).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1712).jpg,3(anger),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1977).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2025).jpg,1(happiness),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1009).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1737).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1416).jpg,5(fear),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3561).jpg,3(anger),1(slightly),4(offensive),2(moderately),0,,,,,,EN
+E_image_ (2331).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2947).jpg,1(happiness),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (2049).jpg,2(love),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (302).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),1,complementary,me,dog,text,image,EN
+E_image_ (3299).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2179).jpg,1(happiness),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (1760).jpg,6(hate),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (54).jpg,6(hate),1(slightly),2(expressive),0(non-offensive),1,complementary,brain;thoughts,human;bear,text,image,EN
+E_image_ (1992).jpg,2(love),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1862).jpg,6(hate),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1836).jpg,6(hate),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (1799).jpg,1(happiness),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (2777).jpg,4(sorrow),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3065).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,complementary,lawyer,cat,text,image,EN
+E_image_ (2609).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1976).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (160).jpg,2(love),2(moderately),2(expressive),0(non-offensive),1,complementary,you,orange,text,image,EN
+E_image_ (597).jpg,1(happiness),2(moderately),3(entertaining),0(non-offensive),1,complementary,world peace,rainbow,text,image,EN
+E_image_ (139).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,complementary,horse,shark,complementary,complementary,EN
+E_image_ (1667).jpg,1(happiness),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (493).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,text dominant,love;life,milk;milk,text,text,EN
+E_image_ (263).jpg,4(sorrow),1(slightly),4(offensive),2(moderately),1,image dominant,Donald Trump,peach,image,image,EN
+E_image_ (2849).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2012).jpg,7(surprise),1(slightly),1(interactive),1(slightly),0,,,,,,EN
+E_image_ (2185).jpg,1(happiness),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (1869).jpg,2(love),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (2013).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (223).jpg,2(love),1(slightly),2(expressive),0(non-offensive),1,complementary,Michael Bay;movies,pill;coca,text,image,EN
+E_image_ (3952).jpg,3(anger),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (3810).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (377).jpg,4(sorrow),2(moderately),2(expressive),0(non-offensive),1,complementary,A,mouth,complementary,image,EN
+E_image_ (338).jpg,6(hate),2(moderately),4(offensive),2(moderately),1,image dominant,tomato,Donald Trump,image,image,EN
+E_image_ (3749).jpg,3(anger),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2767).jpg,3(anger),1(slightly),4(offensive),3(very),0,,,,,,EN
+E_image_ (3806).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (155).jpg,3(anger),1(slightly),4(offensive),3(very),1,complementary,Trump rally,sheep,text,image,EN
+E_image_ (3170).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2590).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2177).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3281).jpg,1(happiness),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (228).jpg,1(happiness),1(slightly),2(expressive),1(slightly),1,complementary,male,flower,text,complementary,EN
+E_image_ (456).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,text dominant,drug,pussy,text,complementary,EN
+E_image_ (401).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,complementary,cocaine,snow,text,image,EN
+E_image_ (992).jpg,2(love),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (2004).jpg,1(happiness),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (666).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,complementary,hug,coffee,complementary,complementary,EN
+E_image_ (3178).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1375).jpg,1(happiness),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2770).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3623).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2563).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1568).jpg,6(hate),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2880).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (324).jpg,4(sorrow),2(moderately),2(expressive),0(non-offensive),1,complementary,you,cat,text,image,EN
+E_image_ (614).jpg,2(love),1(slightly),1(interactive),0(non-offensive),1,complementary,love,rose,text,image,EN
+E_image_ (1463).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1408).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2197).jpg,1(happiness),1(slightly),2(expressive),1(slightly),0,,,,,,EN
+E_image_ (3191).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (492).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,complementary,iceberg,chocolate,image,text,EN
+E_image_ (1897).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (870).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (35).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),1,image dominant,duck,banana,complementary,image,EN
+E_image_ (2060).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2021).jpg,3(anger),3(very),4(offensive),3(very),0,,,,,,EN
+E_image_ (3882).jpg,1(happiness),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (2171).jpg,1(happiness),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (60).jpg,5(fear),3(very),2(expressive),0(non-offensive),1,complementary,me;self doubt,man;bear,text,image,EN
+E_image_ (927).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (368).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,image dominant,turtle,pineapple,image,image,EN
+E_image_ (1674).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1628).jpg,4(sorrow),3(very),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1133).jpg,2(love),3(very),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3916).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3851).jpg,3(anger),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2369).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3517).jpg,2(love),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1014).jpg,5(fear),3(very),3(entertaining),0(non-offensive),1,text dominant,air,love,text,text,EN
+E_image_ (1438).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3226).jpg,2(love),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (804).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1641).jpg,4(sorrow),2(moderately),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2096).jpg,7(surprise),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1997).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (376).jpg,1(happiness),1(slightly),5(other),0(non-offensive),1,complementary,meme format;people,poker;cat,text,image,EN
+E_image_ (2131).jpg,1(happiness),2(moderately),2(expressive),2(moderately),0,,,,,,EN
+E_image_ (3086).jpg,6(hate),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (3883).jpg,1(happiness),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (3217).jpg,6(hate),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (1672).jpg,6(hate),2(moderately),4(offensive),2(moderately),1,text dominant,trash,Hillary,text,text,EN
+E_image_ (3898).jpg,4(sorrow),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3651).jpg,1(happiness),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (517).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,text dominant,rainbow,you,text,text,EN
+E_image_ (1360).jpg,7(surprise),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3370).jpg,1(happiness),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1709).jpg,7(surprise),1(slightly),2(expressive),1(slightly),0,,,,,,EN
+E_image_ (2475).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2652).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (150).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),1,complementary,sheep,dog,image,complementary,EN
+E_image_ (167).jpg,2(love),1(slightly),2(expressive),0(non-offensive),1,complementary,balance?beam,life,complementary,text,EN
+E_image_ (7).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),1,image dominant,shark,cat,image,complementary,EN
+E_image_ (3028).jpg,6(hate),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (3799).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1332).jpg,3(anger),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (829).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2918).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2983).jpg,2(love),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3329).jpg,3(anger),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (2438).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3263).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (21).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,image dominant,taco,dog,image,image,EN
+E_image_ (472).jpg,2(love),1(slightly),2(expressive),0(non-offensive),1,text dominant,lesson,patience,text,text,EN
+E_image_ (731).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),1,complementary,Massive Economic Collapse;$12,sea wave;man,text,image,EN
+E_image_ (2855).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2912).jpg,7(surprise),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (1028).jpg,3(anger),3(very),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2572).jpg,2(love),1(slightly),3(entertaining),1(slightly),0,,,,,,EN
+E_image_ (953).jpg,6(hate),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (1415).jpg,4(sorrow),1(slightly),4(offensive),1(slightly),1,complementary,ex girlfriend,woman,text,image,EN
+E_image_ (3315).jpg,3(anger),1(slightly),3(entertaining),1(slightly),0,,,,,,EN
+E_image_ (3654).jpg,1(happiness),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2290).jpg,6(hate),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (87).jpg,2(love),1(slightly),2(expressive),0(non-offensive),1,text dominant,power,knowledge,text,text,EN
+E_image_ (125).jpg,3(anger),1(slightly),4(offensive),3(very),1,text dominant,rubbish,you,text,text,EN
+E_image_ (1774).jpg,2(love),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (281).jpg,2(love),1(slightly),2(expressive),0(non-offensive),1,image dominant,human,orange,image,image,EN
+E_image_ (1624).jpg,2(love),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (857).jpg,1(happiness),1(slightly),2(expressive),1(slightly),0,,,,,,EN
+E_image_ (757).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,text dominant,key,consistency,text,text,EN
+E_image_ (1492).jpg,3(anger),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3277).jpg,3(anger),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (3265).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1077).jpg,6(hate),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2283).jpg,3(anger),2(moderately),2(expressive),2(moderately),0,,,,,,EN
+E_image_ (1949).jpg,7(surprise),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1042).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3369).jpg,1(happiness),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1937).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (271).jpg,6(hate),1(slightly),2(expressive),0(non-offensive),1,image dominant,human,apple,image,image,EN
+E_image_ (3568).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1727).jpg,1(happiness),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (103).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),1,complementary,the French Army;Russian,man;Pepsi,text,image,EN
+E_image_ (1038).jpg,7(surprise),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (359).jpg,4(sorrow),1(slightly),4(offensive),2(moderately),1,image dominant,iPhone,kidney,image,image,EN
+E_image_ (1705).jpg,7(surprise),1(slightly),1(interactive),1(slightly),0,,,,,,EN
+E_image_ (693).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,image dominant,head,strawberry,image,image,EN
+E_image_ (416).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,image dominant,moon,dog,image,image,EN
+E_image_ (940).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2520).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3076).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2966).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2334).jpg,6(hate),2(moderately),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3283).jpg,4(sorrow),1(slightly),2(expressive),1(slightly),0,,,,,,EN
+E_image_ (882).jpg,7(surprise),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (273).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),1,image dominant,human,orange,image,image,EN
+E_image_ (1049).jpg,6(hate),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2192).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1704).jpg,5(fear),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (124).jpg,3(anger),2(moderately),4(offensive),3(very),1,text dominant,rubbish,you,text,text,EN
+E_image_ (1384).jpg,1(happiness),1(slightly),4(offensive),2(moderately),0,,,,,,EN
+E_image_ (997).jpg,1(happiness),2(moderately),3(entertaining),0(non-offensive),1,text dominant,human,neutron,text,text,EN
+E_image_ (3221).jpg,1(happiness),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3506).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3986).jpg,2(love),3(very),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (786).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,image dominant,cash,cow,image,image,EN
+E_image_ (1480).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (699).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,text dominant,beast,fame,text,text,EN
+E_image_ (2968).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3335).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (594).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,image dominant,owl,apple,image,image,EN
+E_image_ (299).jpg,6(hate),2(moderately),2(expressive),0(non-offensive),1,complementary,you,dog,text,image,EN
+E_image_ (2594).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2316).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1172).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3927).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,text dominant,a yardstick of quality,man,text,text,EN
+E_image_ (3976).jpg,1(happiness),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (2136).jpg,3(anger),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1857).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3353).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1944).jpg,4(sorrow),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (170).jpg,4(sorrow),3(very),2(expressive),0(non-offensive),1,complementary,me,truck,text,image,EN
+E_image_ (33).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,image dominant,duck,banana,image,image,EN
+E_image_ (364).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,complementary,tank,turtle,text,image,EN
+E_image_ (2691).jpg,7(surprise),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1633).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2144).jpg,7(surprise),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2439).jpg,5(fear),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2339).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,complementary,Obama,orangutan,text,image,EN
+E_image_ (2974).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1253).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3375).jpg,3(anger),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3454).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2924).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3781).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (567).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,text dominant,Republican,elephant,text,complementary,EN
+E_image_ (570).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),1,complementary,rainwater,cats and dogs,complementary,complementary,EN
+E_image_ (3411).jpg,3(anger),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3129).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1254).jpg,7(surprise),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2508).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2344).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3014).jpg,5(fear),1(slightly),4(offensive),1(slightly),1,image dominant,fish,woman,image,image,EN
+E_image_ (2812).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1010).jpg,2(love),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1577).jpg,3(anger),2(moderately),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (1770).jpg,3(anger),2(moderately),2(expressive),2(moderately),0,,,,,,EN
+E_image_ (2030).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1673).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1621).jpg,1(happiness),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (3825).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1319).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (235).jpg,7(surprise),1(slightly),4(offensive),1(slightly),1,image dominant,mustache,flower,image,image,EN
+E_image_ (1547).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2956).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2429).jpg,1(happiness),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (190).jpg,6(hate),1(slightly),2(expressive),0(non-offensive),1,text dominant,armistice,peace,text,text,EN
+E_image_ (455).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,text dominant,a hell of drug,crack cocaine,text,text,EN
+E_image_ (1330).jpg,6(hate),2(moderately),4(offensive),2(moderately),0,,,,,,EN
+E_image_ (313).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),1,image dominant,Emoji,man,image,image,EN
+E_image_ (3950).jpg,1(happiness),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (3572).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2326).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,text dominant,Putin,Trump,text,text,EN
+E_image_ (2692).jpg,7(surprise),1(slightly),2(expressive),0(non-offensive),1,complementary,woman,iceberg,complementary,complementary,EN
+E_image_ (3439).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1456).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1756).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1461).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3118).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3446).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3324).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (792).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,complementary,heart,wall,text,image,EN
+E_image_ (1354).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (398).jpg,7(surprise),2(moderately),2(expressive),0(non-offensive),1,complementary,cocaine,snow,text,image,EN
+E_image_ (1343).jpg,1(happiness),1(slightly),1(interactive),0(non-offensive),1,text dominant,ketchup,blood,text,text,EN
+E_image_ (3887).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),1,complementary,monkey's hair,Trump's hair,image,complementary,EN
+E_image_ (3242).jpg,3(anger),1(slightly),2(expressive),1(slightly),0,,,,,,EN
+E_image_ (2873).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (631).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),1,image dominant,fish,meat,image,image,EN
+E_image_ (802).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (779).jpg,2(love),1(slightly),2(expressive),0(non-offensive),1,image dominant,human,coffee,image,image,EN
+E_image_ (3727).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2682).jpg,5(fear),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3301).jpg,3(anger),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (962).jpg,2(love),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (1506).jpg,5(fear),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2882).jpg,7(surprise),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (1762).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,complementary,diet,bamboo,text,image,EN
+E_image_ (2782).jpg,2(love),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (722).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,text dominant,mother of success,failure,text,text,EN
+E_image_ (2810).jpg,1(happiness),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2666).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1153).jpg,6(hate),1(slightly),2(expressive),1(slightly),0,,,,,,EN
+E_image_ (3624).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),1,complementary,Poles;Russians;hating Ukrainians,arm;arm;handshake,text,image,EN
+E_image_ (609).jpg,2(love),1(slightly),2(expressive),0(non-offensive),1,complementary,sheep,wolf,complementary,complementary,EN
+E_image_ (1430).jpg,1(happiness),2(moderately),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (431).jpg,2(love),1(slightly),2(expressive),0(non-offensive),1,text dominant,trash,life,text,text,EN
+E_image_ (3800).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2689).jpg,3(anger),2(moderately),4(offensive),2(moderately),0,,,,,,EN
+E_image_ (2353).jpg,3(anger),1(slightly),4(offensive),2(moderately),1,text dominant,jews,hilter's favorite drink,text,text,EN
+E_image_ (1410).jpg,6(hate),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1487).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3062).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3587).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2258).jpg,1(happiness),2(moderately),2(expressive),2(moderately),0,,,,,,EN
+E_image_ (3108).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1832).jpg,6(hate),2(moderately),4(offensive),2(moderately),0,,,,,,EN
+E_image_ (873).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,image dominant,bulb,man,image,image,EN
+E_image_ (2047).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3472).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2564).jpg,3(anger),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1292).jpg,7(surprise),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (1656).jpg,6(hate),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2397).jpg,1(happiness),3(very),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1626).jpg,6(hate),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2135).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (432).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),1,text dominant,trash,you,text,text,EN
+E_image_ (2301).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2934).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (5).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),1,complementary,human,cat,text,image,EN
+E_image_ (1522).jpg,7(surprise),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3858).jpg,7(surprise),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (1786).jpg,6(hate),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1441).jpg,1(happiness),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3877).jpg,1(happiness),1(slightly),3(entertaining),1(slightly),0,,,,,,EN
+E_image_ (776).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),1,complementary,me,construction,text,image,EN
+E_image_ (3326).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),1,complementary,crab,hairclip,complementary,image,EN
+E_image_ (3426).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2019).jpg,2(love),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2523).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (259).jpg,5(fear),3(very),4(offensive),2(moderately),1,complementary,climate change;economic crisis;COVID-19,shark;shark;shark,text,image,EN
+E_image_ (2875).jpg,1(happiness),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (3784).jpg,1(happiness),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1411).jpg,3(anger),2(moderately),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2476).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1935).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3757).jpg,4(sorrow),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3706).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2156).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3400).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2775).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2411).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (254).jpg,1(happiness),1(slightly),4(offensive),1(slightly),1,image dominant,frog,Donald Trump,image,image,EN
+E_image_ (2953).jpg,6(hate),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3656).jpg,1(happiness),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (397).jpg,1(happiness),2(moderately),2(expressive),0(non-offensive),1,complementary,cocaine,snow,text,image,EN
+E_image_ (1960).jpg,1(happiness),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1029).jpg,4(sorrow),1(slightly),2(expressive),1(slightly),0,,,,,,EN
+E_image_ (652).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),1,image dominant,sail,panties,image,image,EN
+E_image_ (2608).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1703).jpg,7(surprise),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (3161).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1078).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1877).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3202).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (1345).jpg,1(happiness),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2368).jpg,3(anger),1(slightly),1(interactive),1(slightly),0,,,,,,EN
+E_image_ (554).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,complementary,peach,Donald Trump,text,image,EN
+E_image_ (2936).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (751).jpg,2(love),1(slightly),2(expressive),0(non-offensive),1,text dominant,treasure,family,text,text,EN
+E_image_ (2539).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2394).jpg,1(happiness),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (390).jpg,6(hate),2(moderately),4(offensive),2(moderately),1,complementary,ghost,ice,complementary,image,EN
+E_image_ (1867).jpg,6(hate),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (1067).jpg,2(love),1(slightly),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (1160).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3229).jpg,3(anger),2(moderately),2(expressive),2(moderately),0,,,,,,EN
+E_image_ (2949).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2677).jpg,5(fear),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (784).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,complementary,I,tiger,text,image,EN
+E_image_ (3569).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2945).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),1,text dominant,construct,beauty,text,text,EN
+E_image_ (153).jpg,4(sorrow),2(moderately),2(expressive),0(non-offensive),1,complementary,monday;job;me,man;door;man,text,image,EN
+E_image_ (3402).jpg,5(fear),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2496).jpg,3(anger),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (3475).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (327).jpg,1(happiness),1(slightly),4(offensive),1(slightly),1,complementary,me,mom,text,image,EN
+E_image_ (781).jpg,5(fear),1(slightly),2(expressive),0(non-offensive),1,complementary,you,dog,text,image,EN
+E_image_ (1693).jpg,7(surprise),1(slightly),4(offensive),0(non-offensive),0,,,,,,EN
+E_image_ (1660).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1514).jpg,4(sorrow),2(moderately),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1640).jpg,2(love),2(moderately),2(expressive),0(non-offensive),1,text dominant,genital,fastball,text,text,EN
+E_image_ (3165).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (159).jpg,4(sorrow),1(slightly),2(expressive),0(non-offensive),1,complementary,fish,you,image,text,EN
+E_image_ (2470).jpg,3(anger),2(moderately),2(expressive),2(moderately),0,,,,,,EN
+E_image_ (3387).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (298).jpg,2(love),2(moderately),2(expressive),0(non-offensive),1,complementary,teacher;me,hand;cat,text,image,EN
+E_image_ (2561).jpg,3(anger),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3007).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3476).jpg,3(anger),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (3772).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (178).jpg,1(happiness),3(very),2(expressive),0(non-offensive),1,text dominant,rainbow,life,text,text,EN
+E_image_ (2406).jpg,1(happiness),1(slightly),4(offensive),0(non-offensive),1,complementary,armies,seals,text,image,EN
+E_image_ (2274).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),1,text dominant,rock,relationship,text,text,EN
+E_image_ (3427).jpg,3(anger),3(very),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (2087).jpg,3(anger),2(moderately),2(expressive),3(very),0,,,,,,EN
+E_image_ (3631).jpg,5(fear),1(slightly),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2320).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,image dominant,surrenderor,Donald Trump,image,image,EN
+E_image_ (806).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1035).jpg,4(sorrow),2(moderately),2(expressive),0(non-offensive),1,complementary,you,cat,text,image,EN
+E_image_ (579).jpg,2(love),1(slightly),2(expressive),0(non-offensive),1,text dominant,sun,you,text,text,EN
+E_image_ (600).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,complementary,peace,pigeon,text,image,EN
+E_image_ (3788).jpg,7(surprise),2(moderately),1(interactive),0(non-offensive),0,,,,,,EN
+E_image_ (402).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,complementary,cocaine,snow,text,image,EN
+E_image_ (2946).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (441).jpg,6(hate),1(slightly),4(offensive),1(slightly),1,complementary,trash,your opinion,image,text,EN
+E_image_ (569).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),1,complementary,rainwater,cats and dogs,complementary,complementary,EN
+E_image_ (2112).jpg,1(happiness),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3247).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (3873).jpg,6(hate),2(moderately),2(expressive),0(non-offensive),0,,,,,,EN
+E_image_ (2335).jpg,3(anger),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2001).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (353).jpg,4(sorrow),1(slightly),4(offensive),1(slightly),1,complementary,iphone11,air,text,image,EN
+E_image_ (1311).jpg,3(anger),1(slightly),3(entertaining),1(slightly),0,,,,,,EN
+E_image_ (345).jpg,1(happiness),1(slightly),2(expressive),0(non-offensive),1,complementary,you;shoes,tomatoes;tomatoes,text,image,EN
+E_image_ (2871).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (1220).jpg,1(happiness),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2521).jpg,6(hate),1(slightly),4(offensive),1(slightly),0,,,,,,EN
+E_image_ (1464).jpg,4(sorrow),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (943).jpg,2(love),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (2241).jpg,7(surprise),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
+E_image_ (3082).jpg,6(hate),1(slightly),3(entertaining),0(non-offensive),0,,,,,,EN
