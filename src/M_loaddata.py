@@ -8,10 +8,10 @@ def load_dataset(path, task_id, pad_size=35):
     task_prefix = f'task{task_id}_'
     contents = []
 
-    with open(os.path.join(cur_dir, '../feature/cache_E/id_imageFeat_ViT-L_14.pkl'), 'rb') as f:
+    with open(os.path.join(cur_dir, '../feature/cache_E/id_imageFeat_CLIP_ViT-L_14.pkl'), 'rb') as f:
         id_imgFeat = pickle.load(f)
 
-    with open(os.path.join(cur_dir, '../feature/cache_E/id_textFeat_ViT-L_14.pkl'), 'rb') as f:
+    with open(os.path.join(cur_dir, '../feature/cache_E/id_textFeat_CLIP-L_14.pkl'), 'rb') as f:
         id_textFeat = pickle.load(f)
 
     with open(os.path.join(cur_dir, f'../feature/cache_E/{task_prefix}id_promptTokenID.pkl'), 'rb') as f:
@@ -52,7 +52,7 @@ class DatasetIterater(object):  # 自定义数据集迭代器
         self.batches = batches  # 构建好的数据集
         self.n_batches = len(batches) // batch_size
         self.residue = False  # 记录batch数量是否为整数
-        if len(batches) % self.n_batches != 0:  # 不能整除
+        if len(batches) % self.batch_size != 0:  # 不能整除
             self.residue = True #True表示不能整除
         self.index = 0
         self.device = device

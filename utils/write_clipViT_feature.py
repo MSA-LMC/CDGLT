@@ -56,6 +56,6 @@ if __name__ == '__main__':
     image_features = get_E_images_feature(image_features) # get English images feature 
     print(image_features.shape)
 
-    with open(os.path.join(cur_dir, '../feature/cache_E/id_imageFeat_ViT-L_14.pkl'), 'wb') as fp:
+    with open(os.path.join(cur_dir, '../feature/cache_E/id_imageFeat_CLIP_ViT-L_14.pkl'), 'wb') as fp:
         pickle.dump(image_features, fp)
-        print('id_imageFeat_ViT-L_14.pkl Written!')
+        print('id_imageFeat_CLIP_ViT-L_14.pkl Written!')

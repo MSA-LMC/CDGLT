@@ -45,10 +45,10 @@ if __name__ == '__main__':
     textFeat_list = get_E_text_feature() # get English text feature 
     print(len(textFeat_list), textFeat_list[0].shape)
 
-    id_textFeat_path = os.path.join(current_dir, '../feature/cache_E/id_textFeat_ViT-L_14.pkl')
+    id_textFeat_path = os.path.join(current_dir, '../feature/cache_E/id_textFeat_CLIP-L_14.pkl')
     try:
         with open(id_textFeat_path, 'wb') as f:
             pickle.dump(textFeat_list, f)
-        print('id_textFeat_ViT-L_14.pkl Written')
+        print('id_textFeat_CLIP-L_14.pkl Written')
     except Exception as err:
         print(err)
